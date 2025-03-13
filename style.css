@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h3{
+    text-align: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    
+}
+.btn{
+    height: 200px;
+    width: 200px;
+    border: 6px solid black;
+    border-radius: 10px;
+    margin: 2rem;
+}
+.pink{
+    background-color: rgb(189, 100, 130);
+}
+.grey{
+    background-color: rgb(56, 158, 124);
+}
+.orange{
+    background-color: rgb(224, 174, 35);
+}
+.blue{
+    background-color: rgb(44, 141, 216);
+}   
+
+.flash{
+    background-color: white;
+}
+
+.userFlash{
+    background-color: beige;
+}
